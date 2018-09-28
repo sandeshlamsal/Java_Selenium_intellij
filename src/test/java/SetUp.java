@@ -10,5 +10,6 @@ public class SetUp {
         System.setProperty("webdriver.chrome.driver","C:\\chromedriver.exe");
         WebDriver wd=new ChromeDriver();
         wd.get("http://www.gmail.com");
+        //commented
     }
 }
